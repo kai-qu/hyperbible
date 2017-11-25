@@ -1,0 +1,58 @@
+body {
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 50px;
+    margin-bottom: 250px;
+    width: 450px;
+    font-family: 'David Libre', serif;
+    text-align: justify;
+    font-size: 21px;
+    color: #666;
+    font-weight: normal;
+    text-align: left;
+    line-height: 1.5;
+}
+
+h5 {
+   font-family: 'David Libre', serif;
+   font-size: 13px;
+   color: #b7b2b2;
+}
+
+span.ch-num {
+    font-family: 'Fondamento', cursive;
+    font-size: 60px;
+    float: left;
+    line-height: 1;
+    font-weight: bold;
+    margin-right: 30px;
+    margin-left: 10px;
+    /* text-shadow: #690 0.05em 0.05em; */
+}
+
+h1 {
+    font-family: 'Fondamento', cursive;
+    font-weight:700;
+    font-style:normal;
+    font-size: 65px;
+}
+
+t {
+    font-family: 'David Libre', serif;
+    font-weight:700;
+    font-style:normal;
+    font-size: 19px;
+    text-align: left;
+}
+
+span.verse {
+    text-align: justify;
+    margin-left: 20px;
+    margin-bottom: 35px;
+}
+
+a { 
+    text-decoration: none;
+    color: #b7b2b2;
+    border: none; 
+}
