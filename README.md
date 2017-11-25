@@ -11,6 +11,10 @@ Made for [National Novel Generation Month 2017](https://github.com/NaNoGenMo/201
 
 Much thanks to the King James Bible, American Standard Version, Douay-Rheims Bible, Darby Bible Translation, English Revised Version, Webster Bible Translation, World English Bible, Young's Literal Translation, American KJV, and Weymouth New Testament.
 
+Different translations are optimized for different qualities, such as "thought-for-thought" or "word-for-word." Here are three comparisons ([1](http://www.mardel.com/bibleTranslationGuide), [2](http://www.mardel.com/bibleTranslationGuide), [3](https://en.wikipedia.org/wiki/List_of_English_Bible_translations)) and a page on the [Douay-Rheims Bible](https://en.wikipedia.org/wiki/Douay%E2%80%93Rheims_Bible).
+
+I'd be curious to see a quantitative study on the qualities of the translations, such as where the mean words lie in an embedding space.
+
 # Instructions
 
 `bible.hs` is a Haskell file that generates the HTML for the page. You'll need to manually copy the Javascript at the top and bottom of the current `bible.html` into the generated `bible.html`, and edit the generated verses again.
