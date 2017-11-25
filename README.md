@@ -17,6 +17,6 @@ Much thanks to the King James Bible, American Standard Version, Douay-Rheims Bib
 
 `bible.html` contains the js to randomly sample verses from the different translations.
 
-Credit for the corpus goes to the site hackathon.bible, specifically to biblehub.net. (_N.B._ There is a parse error in the corpus in _Exodus_.)
+This repository contains the original corpus for the book, `ecc.txt`, as well as `ecc-nl.txt` if you want to just read all the translations at once. Credit for the full corpus—a truly amazing Excel spreadsheet of ten Bibles—goes to the site [hackathon.bible](http://hackathon.bible), specifically to [Biblehub](http://biblehub.net). (_N.B._ There is a parse error in the corpus in _Exodus_.) 
 
 This book is made out of a spirit of respect and love, not sacrilege.
